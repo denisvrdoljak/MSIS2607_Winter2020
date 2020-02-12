@@ -8,4 +8,7 @@ week1lab/example.py
 *.pptx
 *.ipynb_checkpoints*
 week3material/doglicenses.csv
-week6material/*
+
+week7material/*
+week8material/*
+week9material/*
