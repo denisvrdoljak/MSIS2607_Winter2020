@@ -1,14 +1,13 @@
+*.pptx
 
 *.docx
 *.DS_Store
 *.DS_Store
+
 .ipynb_checkpoints/*
 */.ipynb_checkpoints/*
-week1lab/example.py
-*.pptx
 *.ipynb_checkpoints*
+
+week1lab/example.py
 week3material/doglicenses.csv
 
-week7material/*
-week8material/*
-week9material/*
